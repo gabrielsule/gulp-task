@@ -1,5 +1,4 @@
 # GULP #
-========
 
 ## Instalación y utilización de Gulp ##
 *Autor:* Gabriel D. Sulé
@@ -18,7 +17,8 @@
 ## Instalación de Gulp en forma global ##
 Desde la línea de comandos ejecutar
 
-```npm install -g gulp
+```
+npm install -g gulp
 ```
 
 ## Instalación de plugins ##
