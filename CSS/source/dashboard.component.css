@@ -1,0 +1,16 @@
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.card-footer>div>div>a>i {
+  color: #000;
+}
+
+.card:hover {
+  -moz-box-shadow: 3px 3px 15px #000;
+  -webkit-box-shadow: 3px 3px 15px #000;
+  box-shadow: 3px 3px 15px #000;
+}
+
+
