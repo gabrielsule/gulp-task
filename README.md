@@ -6,14 +6,6 @@
 *Versión:* 1.0
 ***
 
-## Índice ##
-- [Instalación de Gulp](#Instalación de Gulp)
-- [Instalación de plugins](#Instalación de plugins)
-- [Concatenar JS](#Concatenar JS)
-- [IConcatenar CSS](#Concatenar CSS)
-- [Minificar CSS](#Minificar CSS)
-***
-
 ## Instalación de Gulp en forma global ##
 Desde la línea de comandos ejecutar
 
@@ -24,19 +16,22 @@ npm install -g gulp
 ## Instalación de plugins ##
 Situarse en la carpeta GulpTask y ejecutar el siguiente comando
 
-```npm install
+```
+npm install
 ```
 
 ## Concatenar JS ##
 Para concatenar todos los archivos JavaScript situados en una misma carpeta ejecutar
 
-```gulp concatjs
+```
+gulp concatjs
 ```
 
 ## Concatenar CSS ##
 Para concatenar todos los archivos CSS situados en una misma carpeta ejecutar
 
-```gulp concatcss
+```
+gulp concatcss
 ```
 
 ## Minificar CSS ##
