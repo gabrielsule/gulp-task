@@ -37,5 +37,9 @@ gulp concatcss
 ## Minificar CSS ##
 Para minificar el archivo concatenado, ejecutar
 
-```gulp minifycss
 ```
+gulp minifycss
+```
+
+## Autores
+* **Gabriel D. Sulé** - [gabrielsule](https://twitter.com/gabrielsule)
